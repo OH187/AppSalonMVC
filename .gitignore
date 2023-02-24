@@ -3,4 +3,5 @@ src/
 vendor/
 appsalon.sql
 gulpfile.js
+.DS_Store
 .env
